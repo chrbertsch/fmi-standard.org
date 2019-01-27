@@ -6,6 +6,14 @@ layout: default
 
 ## FMI Related Publications
 
+### [American Modelica Conference 2018](https://www.modelica.org/events/modelica2018Americas)
+FMI related conference papers ([link to proceedings](https://www.modelica.org/events/modelica2018Americas/preliminary-program/166522_Modelica_Proceedings_v2.pdf)):
+
+* [ModestPy: An Open-Source Python Tool for Parameter Estimation in Functional Mock-up Units](https://www.modelica.org/events/modelica2018Americas/preliminary-program/166522_Modelica_Proceedings_v2.pdf#page=123)
+* [A Safe Regression Test Selection Technique for Modelica](https://www.modelica.org/events/modelica2018Americas/preliminary-program/166522_Modelica_Proceedings_v2.pdf#page=133)
+* [Functional Mockup Interface: An Empirical Survey Identifies Research Challenges and Current Barriers](https://www.modelica.org/events/modelica2018Americas/preliminary-program/166522_Modelica_Proceedings_v2.pdf#page=140)
+* [A Method to Import FMU to Hardware Description Language](https://www.modelica.org/events/modelica2018Americas/preliminary-program/166522_Modelica_Proceedings_v2.pdf#page=149)  
+
 ### [Japanese Modelica Conference 2018](https://www.modelica.org/events/modelica2018japan)
 
 Keynote: [10 Years of FMI: Where are we now, where do we go?](https://www.modelica.org/events/modelica2018japan/presentation/10_Years_of_FMI.pdf)
