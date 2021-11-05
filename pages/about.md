@@ -53,7 +53,7 @@ Today, we largely use github issues and pull requests to technically coordinate 
 
 ## First version of the FMI Standard
 
-[MODELISAR](https://itea3.org/project/modelisar.html) was an ![ITEA2](https://svn.fmi-standard.org/fmi/branches/public/img/itea2.png) European project to improve significantly the design of systems and of embedded software in vehicles.
+[MODELISAR](https://itea3.org/project/modelisar.html) was an ![ITEA2](https://github.com/modelica/fmi-standard.org/tree/master/assets/images/logo_itea2_home.gif) European project to improve significantly the design of systems and of embedded software in vehicles.
 MODELISAR had 29 partners and started in July 2008 and finished, after extension, in December 2011.
 FMI 1.0 was one of the results of MODELISAR.
 
@@ -70,16 +70,16 @@ The FMI development was partially funded within the ITEA2 project MODELISAR by
 
 <table class="table table-borderless">
   <tr>
-    <td> <img src="https://svn.fmi-standard.org/fmi/branches/public/img/bmbf.png" alt="bmbf.png" title="bmbf.png" /> </td>
+    <td> <img src="{{ "/assets/images/logo_bmbf.png" | relative_url }}" alt="bmbf.png" title="bmbf.png" /> </td>
     <td> <a href="https://www.bmbf.de/">BMBF</a> for Daimler AG, DLR e.V., Fraunhofer IIS/EAS, ITI GmbH, Martin-Luther-University Halle-Wittenberg, QTronic GmbH, SIMPACK AG, TWT (BMBF Förderkennzeichen: 01lS08002)
     </td>
   </tr>
   <tr>
-    <td> <img src="https://svn.fmi-standard.org/fmi/branches/public/img/dgcis.png" alt="dgcis.png" title="dgcis.png" /></td>
+    <td> <img src="{{ "/assets/images/logo-dgcis.png" | relative_url }}" alt="dgcis.png" title="dgcis.png" /></td>g
     <td> <a href="http://www.industrie.gouv.fr/portail/une/dgcis.html">DGCIS</a> for Dassault Systèmes, IFPEN, LMS Imagine, Trialog</td>
   </tr>
   <tr>
-    <td> <img src="https://svn.fmi-standard.org/fmi/branches/public/img/vinnova.png" alt="vinnova.png" title="vinnova.png" /></td>
+    <td> <img src="{{ "/assets/images/vinnova.png" | relative_url }}" alt="vinnova.png" title="vinnova.png" /></td>
     <td> <a href="http://www.vinnova.se/en/">VINNOVA</a> for Dynasim AB, Volvo (funding number: 2008-02291)</td>
   </tr>
 </table>
