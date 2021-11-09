@@ -118,7 +118,7 @@ FMI related conference papers:
 
 ### [11th International Modelica Conference 2015](https://www.modelica.org/events/modelica2015)
 
-[FMI User Meeting](https://svn.fmi-standard.org/fmi/branches/public/docs/Modelica2015/FMI_User_Meeting_ModelicaConference2015.zip)
+[FMI User Meeting]https://github.com/modelica/fmi-standard.org/tree/master/assets/literature/FMI_User_Meeting_2015/FMI_User_Meeting_ModelicaConference2015.zip)
 
 Other FMI related conference papers:
 
@@ -137,7 +137,7 @@ Other FMI related conference papers:
 
 ### [10th International Modelica Conference 2014](https://www.modelica.org/events/modelica2014)
 
-Tutorial: [Functional Mockup Interface 2.0 and HiL Applications](https://svn.fmi-standard.org/fmi/branches/public/docs/Modelica2014/FMI_Tutorial_ModelicaConference2014.zip) (16 presentations from FMI design group members, OEMs, suppliers, and tool vendors)
+Tutorial: [Functional Mockup Interface 2.0 and HiL Applications](https://github.com/modelica/fmi-standard.org/tree/master/assets/literature/FMI_Tutorial_2014/FMI_Tutorial_ModelicaConference2014.zip) (16 presentations from FMI design group members, OEMs, suppliers, and tool vendors)
 
 Other FMI related conference papers:
 
@@ -175,7 +175,7 @@ Other FMI related conference papers:
 
 ### [8th International Modelica Conference 2011](https://www.modelica.org/events/modelica2011)
 
-* [The Functional Mock-up Interface for Tool independent Exchange of Simulation Models](https://ep.liu.se/ecp/063/013/ecp11063013.pdf) 
+* [The Functional Mock-up Interface for Tool independent Exchange of Simulation Models](https://ep.liu.se/ecp/063/013/ecp11063013.pdf) ([PPT](https://github.com/modelica/fmi-standard.org/tree/master/assets/literature/Modelica_Conference_2011/The_Functional_Mockup_Interface.ppt), ([PDF](https://github.com/modelica/fmi-standard.org/tree/master/assets/literature/Modelica_Conference_2011/The_Functional_Mockup_Interface.pdf) )
 * [Master for Co-Simulation Using FMI](https://ep.liu.se/ecp/063/014/ecp11063014.pdf)
 * [Import and Export of Functional Mock-up Units in JModelica.org](https://ep.liu.se/ecp/063/036/ecp11063036.pdf)
 * [Implementation of MODELISAR Functional Mock-up Interfaces in SimulationX](https://ep.liu.se/ecp/063/037/ecp11063037.pdf)
