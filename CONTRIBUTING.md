@@ -193,7 +193,7 @@ We recommend keeping {Model_Name} short to avoid path length restriction problem
 
 * List exporting tools (including version information), from which FMUs have been successfully imported and simulated.
 It is recommended to
-  * list these FMUs and/or provide links to the repository of the exporting tool where they can be downloaded.
+  * list these FMUs and/or provide links to the repository of the exporting tool where they can be downloaded. They should include the Reference FMUs (https://github.com/modelica/Reference-FMUs).
   * provide additional information needed to reproduce the results of the importers (e.g., compiler flags).
 
 #### CSV Rules for inout and result files for compatibility information
