@@ -162,11 +162,12 @@
         "logo": "PACE.png",
         "vendor": "PACE Aerospace Engineering and IT GmbH",
         "vendorURL": "https://pace.txtgroup.com/",
-	    "examplesURL": "https://help.pace.de/Predesign/Desmo/9.0.0/APD_UserGuide/using_fmu.html",
+	    "examplesURL": "https://help.pace.de/Predesign/Desmo/9.2.0/APD_UserGuide/using_fmu.html",
         "description": "Desmo is a comprehensive knowledge-based engineering design software suite for the modelling, sizing, analysis and optimization of new and derivative aircraft in the conceptual and preliminary design phase. Desmo extends the capabilities beyond the aircraft design by enabling the definition and analysis of aircraft system architectures and energy management. In addition to defining and modeling aircraft systems, you can also analyze their performance and ultimately their impact on the overall aircraft performance (e.g. thermal, fuel consumption, weights).",
         "features": [],
         "platforms": [
-            "Windows"
+            "Windows",
+			"Linux"
         ],
         "interfaces": [
             "GUI",
@@ -175,7 +176,9 @@
         "fmiVersions": [
             "2.0"
         ],
-        "fmuExport": [],
+        "fmuExport": [
+			"CS"
+		],
         "fmuImport": [
             "CS"
         ]
@@ -1727,18 +1730,22 @@
         "name": "EcosimPro",
         "license": "commercial",
         "url": "https://www.ecosimpro.com/products/ecosimpro/",
-        "vendor": "EA Internacional",
+        "vendor": "EAG",
+		"logo": "ecosimpro_logo.svg",
         "vendorURL": "https://www.empresariosagrupados.es/",
-        "description": "EcosimPro, System Modelling and Simulation Software",
+		"examplesURL": "https://github.com/Empresarios-Agrupados-Internacional/FMI_Examples",
+        "description": "EcosimPro is a first class modelling and simulation software for modeling 0D or 1D multidisciplinary continuous-discrete systems and any kind of system based on differential-algebraic equations (DAE) and discrete events.",
         "features": [],
         "platforms": [
             "Windows"
         ],
         "fmiVersions": [
-            "2.0"
+            "2.0",
+			"3.0"
         ],
         "fmuExport": [
-            "CS"
+            "CS",
+			"ME"
         ],
         "fmuImport": [
             "CS"
@@ -3395,18 +3402,22 @@
         "name": "PROOSIS",
         "license": "commercial",
         "url": "https://www.ecosimpro.com/products/proosis/",
-        "vendor": "EA Internacional",
+        "vendor": "EAG",
         "vendorURL": "https://www.empresariosagrupados.es/",
-        "description": "PROOSIS, Propulsion Object-Oriented Simulation Software",
+		"examplesURL": "https://github.com/Empresarios-Agrupados-Internacional/FMI_Examples",
+		"logo": "proosis_logo.svg",
+        "description": "PROOSIS is a standalone, multi‑platform, object‑oriented environment designed for high-fidelity simulation of gas turbine engines and integrated aerospace systems.",
         "features": [],
         "platforms": [
             "Windows"
         ],
         "fmiVersions": [
-            "2.0"
+            "2.0",
+			"3.0"
         ],
         "fmuExport": [
-            "CS"
+            "CS",
+			"ME"
         ],
         "fmuImport": [
             "CS"
@@ -6889,6 +6900,33 @@
         ],
         "fmuImport": [],
         "layeredStandards": []
-    }
+    },
+    {
+  "name": "Jneopallium",
+  "license": "open-source",
+  "url": "https://github.com/rakovpublic/jneopallium",
+  "logo": "jneopallium.png",
+  "vendor": "Dmytro Rakovskyi",
+  "vendorURL": "https://github.com/rakovpublic/jneopallium",
+  "description": "Java framework for biologically-grounded multi-timescale neuron networks with safety-gated FMI integration for industrial process control",
+  "note": "BSD 3-Clause licensed; ships an OPC UA bridge and an FMI integration layer for using FMU plant models inside safety-gated controllers",
+  "features": [],
+  "platforms": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "interfaces": [
+    "CLI"
+  ],
+  "fmiVersions": [
+    "2.0"
+  ],
+  "fmuImport": [
+    "CS"
+  ],
+  "fmuExport": [],
+  "layeredStandards": []
+}
 
 ]
