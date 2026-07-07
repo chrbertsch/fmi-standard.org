@@ -1,5 +1,5 @@
 ---
-title: Beta version v1.0-beta.1 of the FMI Layered Standard References (FMI-LS-REF) published
+title: Beta version v1.0.0-beta.1 of the FMI Layered Standard References (FMI-LS-REF) published
 date: 2026-07-01
 ---
 
