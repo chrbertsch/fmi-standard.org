@@ -14,7 +14,8 @@ In this way, an FMU can be shipped together with related files that are helpful 
 Note that this layered standard does not mandate the inclusion of any related files with an FMU. 
 It only provides a structured way to describe such files, if they are included. 
 The included related files can be of arbitrary types, as long as their roles are described in the layered standard manifest file. 
-This layered standard can be used in addition to other layered standards, and allows the central description of related files included with the FMU, independently of their use in other layered standards. Thus an implementation can treat the related files described in this layered standard in a uniform way, regardless of whether they are used in other layered standards or not, and regardless of whether the other layered standards are supported by the implementation or not.
+This layered standard can be used in addition to other layered standards, and allows the central description of related files included with the FMU, independently of their use in other layered standards.
+Thus an implementation can treat the related files described in this layered standard in a uniform way, regardless of whether they are used in other layered standards or not, and regardless of whether the other layered standards are supported by the implementation or not.
 
 The experiments format can be used beyond FMI and will be defined in the "harmonized specification" ma-hs-experiments developed by the new Coordination Project within Modelica Association, see https://github.com/modelica/ma-hs-experiments.
 
