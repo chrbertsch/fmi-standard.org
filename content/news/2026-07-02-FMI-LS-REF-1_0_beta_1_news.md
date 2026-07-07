@@ -5,8 +5,8 @@ date: 2026-07-01
 
 # Beta version v1.0.0-beta.1 of the FMI Layered Standard References (FMI-LS-REF) published
 
-The FMI Project is happy to announce the Pre-Release v1.3-beta.1 of the FMI Layered Standard References (FMI-LS-REF)! 
-Many thanks to the FMI Project - especially to the working group leader Pierre Mai - for their contributions!
+The FMI Project is happy to announce the Pre-Release v1.0.0-beta.1 of the FMI Layered Standard References (FMI-LS-REF)! 
+Many thanks to the FMI Project - especially to the working group leader Pierre R. Mai - for their contributions!
 
 This layered standard provides the capability to clearly designate the roles of additional related files included in an FMU in a structured way. 
 These files are described in the layered standard manifest file, which is part of the FMU archive. 
