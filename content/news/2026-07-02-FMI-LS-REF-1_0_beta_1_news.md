@@ -19,6 +19,6 @@ Thus an implementation can treat the related files described in this layered sta
 
 The experiments format that was formerly part of this layered standard can be used beyond FMI and will therefore be defined in the "harmonized specification" ma-hs-experiments developed by the new Coordination Project within Modelica Association, see https://github.com/modelica/ma-hs-experiments.
 
-Learn more here: https://github.com/modelica/fmi-ls-bus/ and https://github.com/modelica/fmi-ls-bus/releases/tag/v1.3.0-beta.1
+Learn more here: https://github.com/modelica/fmi-ls-ref/ and https://github.com/modelica/fmi-ls-ref/releases/tag/v1.0.0-beta.1
 
 
