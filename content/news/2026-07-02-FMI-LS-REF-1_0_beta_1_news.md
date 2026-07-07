@@ -3,7 +3,7 @@ title: Beta version v1.0.0-beta.1 of the FMI Layered Standard References (FMI-LS
 date: 2026-07-01
 ---
 
-# Beta version v1.3.0-beta.1 of the FMI Layered Standard References (FMI-LS-REF) published
+# Beta version v1.0.0-beta.1 of the FMI Layered Standard References (FMI-LS-REF) published
 
 The FMI Project is happy to announce the Pre-Release v1.3-beta.1 of the FMI Layered Standard References (FMI-LS-REF)! 
 Many thanks to the FMI Project - especially to the working group leader Pierre Mai - for their contributions!
