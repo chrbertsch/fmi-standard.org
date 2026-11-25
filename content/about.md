@@ -113,6 +113,9 @@ The use of the letters `FMI` or `FMU` or the FMI logo in a product name, referen
 - the use can be interpreted as a variant, subset or improvement of the original FMI standard (e.g. using a tool name, say `FMIplus`, that can be interpreted as supporting with extensions/improvements with respect to one of the FMI versions),
 - the use spreads wrong or misleading information about the FMI standard, or
 - the use mocks or degrades the FMI standard.
+  
+The names `FMI-LS-XXX` (for different `XXX`) are reserved as short title for FMI Layered Standards released by the FMI Project.
+_(Layered Standards released by other organizations could, e.g. be named `LS-YYY for FMI`)_
 
 The FMI Steering committee reserves the right to determine whether a use of `FMI` or `FMU` violates these guidelines and will ask any offender to cease and desist from using the FMI trademark in a non-approved way.
 The FMI steering committee also reserves the right to retract the permission of the use of the term FMI in a product name when the product owner when the tool developer does over a longer period not fix known errors in their FMI support.
